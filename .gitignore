@@ -3,3 +3,6 @@ mysql_data/
 *.pid
 !log.log
 !log.pid
+.env
+.env.*
+.env.*.swp
